@@ -21,8 +21,9 @@ htmlcov/
 *,cover
 
 # Direnv
-.envrc
 .direnv
 td
 
 env
+
+damilola
